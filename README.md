@@ -3,7 +3,7 @@
 ![cslewis](https://github.com/user-attachments/assets/26657b1d-abb5-4409-af28-5e7a949ec468)
 
 <h2>Sobre</h2>
-<p>Página de livros para o autor C.S. Lewis desenvolvida com o auxílio dos cursos de HTML e CSS da Alura.</p>
+<p>Página de livros para o autor C.S. Lewis desenvolvida com o auxílio dos cursos de HTML e CSS da Alura, com foco em responsividade com mobile-first.</p>
 
 ## Tecnologias
 <div>
